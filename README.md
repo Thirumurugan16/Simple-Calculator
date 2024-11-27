@@ -12,6 +12,8 @@ A simple calculator built using vanilla HTML, CSS and JavaScript.
 
 - Last operation will show up above the input box every time any of the operators is selected.
 
+- ![calculator image](https://github.com/user-attachments/assets/3600de95-2254-4ee4-b37a-dce2db81a1d5)
+
 ## Contributions
 
 - Feel free to suggest any improvements by creating an issue.
